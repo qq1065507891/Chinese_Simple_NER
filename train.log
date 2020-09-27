@@ -1,0 +1,5 @@
+2020-09-27 11:28:55,490 - train.log - INFO - 读取模型参数, 从 modelfile\ckpt\ner.ckpt
+2020-09-27 11:34:53,348 - train.log - INFO - 读取模型参数, 从 modelfile\ckpt\ner.ckpt
+2020-09-27 11:36:49,336 - train.log - INFO - 读取模型参数, 从 modelfile\ckpt\ner.ckpt
+2020-09-27 11:49:17,827 - train.log - INFO - 读取模型参数, 从 modelfile\ckpt\ner.ckpt
+2020-09-27 12:05:12,787 - train.log - INFO - 读取模型参数, 从 modelfile\ckpt\ner.ckpt
